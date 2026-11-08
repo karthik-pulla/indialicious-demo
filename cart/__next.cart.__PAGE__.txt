@@ -1,0 +1,30 @@
+2:"$Sreact.fragment"
+3:I[1133,[],""]
+4:I[4297,[],""]
+9:"$Sreact.suspense"
+a:"static/chunks/568-66e5f4bdc1fba52f.js"
+b:"static/chunks/137-e4f00956d442484a.js"
+c:"static/chunks/78-061a01f18d6443a3.js"
+d:"static/chunks/45-dac5d0c350f4c481.js"
+e:"static/chunks/app/cart/page-a6bbd81b8cc74443.js"
+f:I[6659,["568","$a","137","$b","78","$c","45","$d","5","$e"],"CartView"]
+10:I[1872,[],"OutletBoundary"]
+13:"ViewportBoundary"
+14:I[1872,[],"$13"]
+15:"MetadataBoundary"
+16:I[1872,[],"$15"]
+17:I[2569,[],"IconMark"]
+6:X
+6:C
+7:X
+8:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","section",null,{"className":"section-tight","children":["$","div",null,{"className":"container","children":[["$","header",null,{"className":"page-head","children":["$","h1",null,{"children":"Your cart"}]}],["$","$9",null,{"children":["$","$Lf",null,{"sampleStore":true}]}]]}]}],null,["$","$L10",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":"$@12","v":null,"s":"$7"}}]]
+1:[["children",{"s":"cart","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@5","v":"$6","s":"$7"},"c":"$Q8"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#3a1a45"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$9",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Your cart · Indialicious"}],["$","meta","1",{"name":"description","content":"Slow-simmered Indian curries, rice and simmer sauces made with olive oil and whole spices. Vegetarian, no preservatives, ready in 90 seconds."}],["$","meta","2",{"name":"robots","content":"noindex"}],["$","meta","3",{"property":"og:title","content":"Your cart · Indialicious"}],["$","meta","4",{"property":"og:description","content":"Slow-simmered Indian curries, rice and simmer sauces made with olive oil and whole spices. Vegetarian, no preservatives, ready in 90 seconds."}],["$","meta","5",{"property":"og:site_name","content":"Indialicious"}],["$","meta","6",{"property":"og:locale","content":"en_US"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary"}],["$","meta","9",{"name":"twitter:title","content":"Your cart · Indialicious"}],["$","meta","10",{"name":"twitter:description","content":"Slow-simmered Indian curries, rice and simmer sauces made with olive oil and whole spices. Vegetarian, no preservatives, ready in 90 seconds."}],["$","link","11",{"rel":"icon","href":"/indialicious-demo/icon.svg?fc57c132c33ce3a7","type":"image/svg+xml","sizes":"any"}],["$","$L17","12",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@18","v":null,"s":"$7"}},"a":"$@19","u":"$@1a","b":"UGx3ZHu0d4K7aTGl3cm81"}
+11:null
+1a:true
+7:300
+7:C
+19:0
+5:"$undefined"
+18:"$undefined"
+12:"$undefined"

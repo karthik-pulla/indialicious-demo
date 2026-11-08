@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+Disallow: /cart
+Disallow: /api/
+Disallow: /search
+Disallow: /fonts
+
+Sitemap: https://karthik-pulla.github.io/indialicious-demo/sitemap.xml
